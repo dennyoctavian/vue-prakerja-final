@@ -5,6 +5,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Recommended IDE Setup
 
 URL : https://vue-prakerja-3s97p0uw7-dennyoctavian.vercel.app/
+URL Video Demo : https://drive.google.com/file/d/1mqzmSfKERPGCnXgBMjv4iYWiSJZC9Zo2/view?usp=sharing
 
 ## Recommended IDE Setup
 

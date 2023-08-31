@@ -35,6 +35,7 @@ import axios from 'axios'
 let movies = ref(null)
 async function fetchData() {
   try {
+
     const headers = {
       'Content-Type': 'application/json', // Example: JSON content type
       Authorization: `Bearer ${import.meta.env.VITE_TOKEN}` // Example: Authorization token
@@ -46,6 +47,7 @@ async function fetchData() {
     movies.value = response.data.results
   } catch (error) {
     console.error('Error fetching data:', error)
+    
   }
 }
 fetchData()
